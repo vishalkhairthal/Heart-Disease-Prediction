@@ -98,9 +98,9 @@ Model Workflow:
 Heart-Disease-Prediction/
 │
 ├── app.py
-├── KNN_heart.pkl
-├── Scaler_heart.pkl
-├── Columns_heart.pkl
+├── KNN_heart1.pkl
+├── Scaler_heart1.pkl
+├── Columns_heart1.pkl
 ├── requirements.txt
 ├── README.md
 └── heart.csv
